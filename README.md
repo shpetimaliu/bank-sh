@@ -1,0 +1,2 @@
+# bank-sh
+Bankist is a project created by me and inspired by Professor Jonas, it includes the possibility of transferring money from one account to another account, as well as making loans and closing the account.  The data for logging into the account are: Username: "sa" - Pin: 1111, Username: "ska" Pin: 2222, Username: "sba" Pin: "3333", Username: "sna" Pin: 4444 // https://bank-shputzz.netlify.app/
