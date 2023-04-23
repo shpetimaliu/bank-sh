@@ -62,4 +62,4 @@ Ky eshte nje projekt i thjeshte i nje banke ne JavaScript. Projekti perdoret si 
 
 ## Kontribuim
 
-Ky projekt eshte i hapur per kontribuime te ndryshme. Nese doni te beni ndryshime ne kod, ju lutem hapni nje branch te ri dhe perfitoni nga funksionimi i kodit. Pas kryerjes se ndryshimeve, ju lutem kryeni nje "pull request" qe te kontrollojme ndryshimet tuaja dhe t'i integrojme ne versionin kryesor.
+Ky projekt eshte i hapur per kontribute te ndryshme. Nese doni te beni ndryshime ne kod, ju lutem hapni nje branch te ri dhe perfitoni nga funksionimi i kodit. Pas kryerjes se ndryshimeve, ju lutem kryeni nje "pull request" qe te kontrollojme ndryshimet tuaja dhe t'i integrojme ne versionin kryesor.
